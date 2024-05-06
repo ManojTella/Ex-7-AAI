@@ -1,5 +1,5 @@
-<H3>M SOWMYA</H3>
-<H3>Reg No: 212221230107.</H3>
+<H3>Name: Manoj Guna Sundar Tella</H3>
+<H3>Reg No: 212221240026.</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
